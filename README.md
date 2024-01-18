@@ -5,7 +5,6 @@
 1. 2023년도 공공SW사업 수·발주자의 발주관리 역량강화 교육 운영
 2. SW발주전문가 양성과정 연구개발
 
-![image](https://github.com/helperjby/Project-2023-Public-Software-Procurement-and-Contractor-Capability-Enhancement-Training/assets/69462995/53f61bab-c0e7-49df-b15f-d168b90262b9)
 ![image](https://github.com/helperjby/Project-2023-Public-Software-Procurement-and-Contractor-Capability-Enhancement-Training/assets/69462995/e1124a0d-7559-4487-a46b-ecdef573ecd5)
 
 ## 2. 문제점
