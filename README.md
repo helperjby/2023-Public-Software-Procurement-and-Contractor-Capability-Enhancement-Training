@@ -2,8 +2,14 @@
 2023 공공SW사업 수발주자 역량강화 사업
 
 ## 1. 프로젝트 개요
-1. 2023년도 공공SW사업 수·발주자의 발주관리 역량강화 교육 운영
-2. SW발주전문가 양성과정 연구개발
+* 과업 개요
+  * 2023년도 공공SW사업 수·발주자의 발주관리 역량강화 교육 운영
+  * SW발주전문가 양성과정 연구개발
+
+* 과업 기간
+  * 2023.07 ~ 2023.12
+ 
+* 과업 내용 요약
 
 ![image](https://github.com/helperjby/Project-2023-Public-Software-Procurement-and-Contractor-Capability-Enhancement-Training/assets/69462995/e1124a0d-7559-4487-a46b-ecdef573ecd5)
 
